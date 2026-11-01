@@ -1,6 +1,6 @@
 # Astra AI Platform
 
-![CI](https://github.com/hnjgp/astra-ai-platform/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/hootanseifi/astra-ai-platform/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.14-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-backend-green)
 ![Coverage](https://img.shields.io/badge/coverage-93%25-brightgreen)
